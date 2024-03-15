@@ -1,0 +1,430 @@
+{
+  "transactions": [
+    {
+      "id": "0a12",
+      "effectedAt": "2024-03-11T14:20:00",
+      "value": -55,
+      "description": "Farmácia"
+    },
+    {
+      "id": "0b12",
+      "effectedAt": "2024-03-12T19:30:00",
+      "value": -12.3,
+      "description": "Lanche da tarde"
+    },
+    {
+      "id": "0b13",
+      "effectedAt": "2024-03-13T11:45:00",
+      "value": -60,
+      "description": "Manutenção do carro"
+    },
+    {
+      "id": "1b13",
+      "effectedAt": "2024-03-14T08:10:00",
+      "value": 500,
+      "description": "Venda de itens usados"
+    },
+    {
+      "id": "1b15",
+      "effectedAt": "2024-03-15T17:00:00",
+      "value": -75,
+      "description": "Presentes de aniversário"
+    },
+    {
+      "id": "1b151",
+      "effectedAt": "2024-03-16T12:45:00",
+      "value": -20.5,
+      "description": "Material de escritório"
+    },
+    {
+      "id": "1c151",
+      "effectedAt": "2024-03-17T09:15:00",
+      "value": 80,
+      "description": "Reembolso de transporte"
+    },
+    {
+      "id": "1c151q",
+      "effectedAt": "2024-03-18T16:30:00",
+      "value": -35.2,
+      "description": "Roupas"
+    },
+    {
+      "id": "121q",
+      "effectedAt": "2024-03-19T14:20:00",
+      "value": -10,
+      "description": "Lanche rápido"
+    },
+    {
+      "id": "c121q",
+      "effectedAt": "2024-03-20T11:00:00",
+      "value": -45.75,
+      "description": "Gasolina"
+    },
+    {
+      "id": "c221q",
+      "effectedAt": "2024-03-21T08:45:00",
+      "value": 200,
+      "description": "Reembolso de despesas médicas"
+    },
+    {
+      "id": "c22rq",
+      "effectedAt": "2024-03-22T15:20:00",
+      "value": -18.9,
+      "description": "Cinema"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-23T20:00:00",
+      "value": -30,
+      "description": "Jantar com amigos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-24T12:15:00",
+      "value": -25.5,
+      "description": "Almoço de negócios"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-25T09:30:00",
+      "value": 150,
+      "description": "Recebimento de empréstimo"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-26T18:00:00",
+      "value": -22,
+      "description": "Jantar em família"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-27T16:20:00",
+      "value": -40,
+      "description": "Presente para colega de trabalho"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-28T10:10:00",
+      "value": -15,
+      "description": "Café com amigos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-29T14:30:00",
+      "value": -55.2,
+      "description": "Farmácia"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-30T08:40:00",
+      "value": 300,
+      "description": "Venda de equipamento eletrônico"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-03-31T17:45:00",
+      "value": -20,
+      "description": "Taxi para o aeroporto"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-01T09:20:00",
+      "value": -10.75,
+      "description": "Café da manhã"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-02T14:00:00",
+      "value": -45.75,
+      "description": "Compra de mantimentos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-03T13:30:00",
+      "value": 2000,
+      "description": "Salário"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-04T10:15:00",
+      "value": -30,
+      "description": "Conta de internet"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-05T18:45:00",
+      "value": -15.5,
+      "description": "Almoço"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-06T09:20:00",
+      "value": 100,
+      "description": "Reembolso de despesas"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-07T14:00:00",
+      "value": -40,
+      "description": "Gasolina"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-08T20:00:00",
+      "value": -25,
+      "description": "Jantar"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-09T12:30:00",
+      "value": 350,
+      "description": "Freelance"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-10T17:45:00",
+      "value": -20,
+      "description": "Taxi"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-11T09:10:00",
+      "value": -10.75,
+      "description": "Café da manhã"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-12T08:00:00",
+      "value": -45.75,
+      "description": "Compra de mantimentos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-13T13:30:00",
+      "value": 2000,
+      "description": "Salário"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-14T10:15:00",
+      "value": -30,
+      "description": "Conta de internet"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-15T18:45:00",
+      "value": -15.5,
+      "description": "Almoço"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-16T09:20:00",
+      "value": 100,
+      "description": "Reembolso de despesas"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-17T14:00:00",
+      "value": -40,
+      "description": "Gasolina"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-18T20:00:00",
+      "value": -25,
+      "description": "Jantar"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-19T12:30:00",
+      "value": 350,
+      "description": "Freelance"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-20T17:45:00",
+      "value": -20,
+      "description": "Taxi"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-21T09:10:00",
+      "value": -10.75,
+      "description": "Café da manhã"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-22T08:00:00",
+      "value": -45.75,
+      "description": "Compra de mantimentos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-23T13:30:00",
+      "value": 2000,
+      "description": "Salário"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-24T10:15:00",
+      "value": -30,
+      "description": "Conta de internet"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-25T18:45:00",
+      "value": -15.5,
+      "description": "Almoço"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-26T09:20:00",
+      "value": 100,
+      "description": "Reembolso de despesas"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-27T14:00:00",
+      "value": -40,
+      "description": "Gasolina"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-28T20:00:00",
+      "value": -25,
+      "description": "Jantar"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-29T12:30:00",
+      "value": 350,
+      "description": "Freelance"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-04-30T17:45:00",
+      "value": -20,
+      "description": "Taxi"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-01T09:10:00",
+      "value": -10.75,
+      "description": "Café da manhã"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-02T08:00:00",
+      "value": -45.75,
+      "description": "Compra de mantimentos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-03T13:30:00",
+      "value": 2000,
+      "description": "Salário"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-04T10:15:00",
+      "value": -30,
+      "description": "Conta de internet"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-05T18:45:00",
+      "value": -15.5,
+      "description": "Almoço"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-06T09:20:00",
+      "value": 100,
+      "description": "Reembolso de despesas"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-07T14:00:00",
+      "value": -40,
+      "description": "Gasolina"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-08T20:00:00",
+      "value": -25,
+      "description": "Jantar"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-09T12:30:00",
+      "value": 350,
+      "description": "Freelance"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-10T17:45:00",
+      "value": -20,
+      "description": "Taxi"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-11T09:10:00",
+      "value": -10.75,
+      "description": "Café da manhã"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-12T08:00:00",
+      "value": -45.75,
+      "description": "Compra de mantimentos"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-13T13:30:00",
+      "value": 2000,
+      "description": "Salário"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-14T10:15:00",
+      "value": -30,
+      "description": "Conta de internet"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-15T18:45:00",
+      "value": -15.5,
+      "description": "Almoço"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-16T09:20:00",
+      "value": 100,
+      "description": "Reembolso de despesas"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-17T14:00:00",
+      "value": -40,
+      "description": "Gasolina"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-18T20:00:00",
+      "value": -25,
+      "description": "Jantar"
+    },
+    {
+      "id": "0b79",
+      "effectedAt": "2024-05-19T12:30:00",
+      "value": 350,
+      "description": "Freelance"
+    },
+    {
+      "id": "0b79",
+      "description": "Teste de transaction",
+      "value": -10,
+      "effectedAt": "2024-03-15T17:06:59.564Z"
+    }
+  ]
+}
